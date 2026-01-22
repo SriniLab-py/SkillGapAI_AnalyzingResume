@@ -1,6 +1,6 @@
-# utils/__init__.py
+# database/__init__.py
 """
-Utilities package for Skill Gap AI
-Contains helper modules for file parsing, skill extraction,
-comparison, visualization, recommendations, and report generation
+Database package for Skill Gap AI
+Manages SQLite database connections and ORM models
 """
+
