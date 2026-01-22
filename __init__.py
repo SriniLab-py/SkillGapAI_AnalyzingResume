@@ -1,6 +1,6 @@
-# auth/__init__.py
+# utils/__init__.py
 """
-Authentication package for Skill Gap AI
-Handles user registration, login, and session management
+Utilities package for Skill Gap AI
+Contains helper modules for file parsing, skill extraction,
+comparison, visualization, recommendations, and report generation
 """
-
