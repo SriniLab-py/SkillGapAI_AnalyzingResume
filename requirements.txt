@@ -1,0 +1,39 @@
+# ============================================
+# Skill Gap AI - Integrated Edition
+# Requirements File
+# ============================================
+
+# Core Framework
+streamlit==1.32.0
+
+# Database
+SQLAlchemy==2.0.25
+
+# File Parsing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# NLP & Machine Learning
+spacy==3.7.4
+scikit-learn==1.4.0
+nltk==3.8.1
+
+# Data Processing
+numpy==1.26.3
+pandas==2.2.0
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# PDF Generation
+reportlab==4.1.0
+
+# Utilities
+python-dateutil==2.8.2
+requests==2.31.0
+
+# Optional: For better performance
+numba==0.59.0
+cython==3.0.8
