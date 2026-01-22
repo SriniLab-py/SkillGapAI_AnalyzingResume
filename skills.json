@@ -1,0 +1,52 @@
+{
+  "technical_skills": {
+    "programming_languages": [
+      "Python", "Java", "JavaScript", "C++", "C#", "Ruby", "PHP", "Swift", 
+      "Kotlin", "Go", "Rust", "TypeScript", "Scala", "R", "MATLAB"
+    ],
+    "web_technologies": [
+      "HTML", "CSS", "React", "Angular", "Vue.js", "Node.js", "Express.js",
+      "Django", "Flask", "Spring Boot", "ASP.NET", "Laravel", "jQuery",
+      "Bootstrap", "Tailwind CSS", "Next.js", "Gatsby", "Svelte"
+    ],
+    "databases": [
+      "SQL", "MySQL", "PostgreSQL", "MongoDB", "Oracle", "Redis", "Cassandra",
+      "DynamoDB", "Elasticsearch", "Neo4j", "SQLite", "MariaDB", "Firebase"
+    ],
+    "cloud_devops": [
+      "AWS", "Azure", "GCP", "Docker", "Kubernetes", "Jenkins", "Terraform",
+      "Ansible", "CI/CD", "GitLab", "GitHub Actions", "CircleCI"
+    ],
+    "ai_ml": [
+      "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "Keras",
+      "Scikit-learn", "Pandas", "NumPy", "NLP", "Computer Vision", "OpenCV"
+    ],
+    "data_science": [
+      "Data Analysis", "Data Visualization", "Statistics", "Tableau", "Power BI",
+      "Matplotlib", "Seaborn", "Plotly", "Apache Spark", "Hadoop"
+    ]
+  },
+  "soft_skills": [
+    "Communication", "Teamwork", "Leadership", "Problem Solving",
+    "Critical Thinking", "Time Management", "Adaptability", "Creativity",
+    "Project Management", "Stakeholder Management", "Presentation Skills"
+  ],
+  "tools": {
+    "ides": [
+      "VS Code", "Visual Studio", "IntelliJ IDEA", "PyCharm", "Eclipse",
+      "Sublime Text", "Atom", "Vim", "Android Studio", "Xcode"
+    ],
+    "project_management": [
+      "Jira", "Trello", "Asana", "Confluence", "Slack", "Microsoft Teams",
+      "Notion", "Monday.com", "ClickUp", "Azure DevOps"
+    ],
+    "design": [
+      "Figma", "Sketch", "Adobe XD", "Photoshop", "Illustrator",
+      "InVision", "Canva", "Balsamiq"
+    ]
+  },
+  "operating_systems": [
+    "Linux", "Unix", "Windows", "macOS", "Ubuntu", "CentOS", "Debian",
+    "Red Hat", "Android", "iOS", "Shell Scripting", "Bash", "PowerShell"
+  ]
+}
